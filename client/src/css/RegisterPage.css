@@ -1,0 +1,15 @@
+form.register-form {
+    max-width: 600px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+
+.register-label::after {
+    content: " *";
+    color: red;
+}
+
+.eye-icon-register {
+    bottom: -18px;
+    right: -22px;
+}
